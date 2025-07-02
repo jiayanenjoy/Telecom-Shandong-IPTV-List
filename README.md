@@ -2,11 +2,13 @@
 
 山东电信IPTV直播源
 
-## 时间
+## 更新日志
+**2025年5月22日**  
+本次更新包含以下优化：
 
-* 2024年9月23日
-  * 增加标签
-  * 新增组播的高清和标清部分频道
+新增广东卫视-4K
+
+新增深圳卫视-4K
 
 ## 说明
 
@@ -43,6 +45,9 @@
 | epg.pw：中国 | `https://epg.pw/xmltv/epg_CN.xml` |
 | bevy.be | `https://www.bevy.be/bevyfiles/chinapremium1.xml` |
 | iptv-org | `https://raw.githubusercontent.com/iptv-pro/iptv-pro.github.io/main/epg/epg.xml` |
+
+* 扫源工具
+  * 1.IPTV专业扫描编辑工具[IPTV-Scanner-Editor-Pro](https://github.com/sumingyd/IPTV-Scanner-Editor-Pro)
 
 * EGP工具
   * 1.[WebGrab+Plus](http://webgrabplus.com/download)  根据编写的规则采集设定的节目表，自定义频道名称及频道代码
